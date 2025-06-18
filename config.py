@@ -1,6 +1,6 @@
 EMAIL_CONFIG = {
-    "EMAIL": "kanhnupolai79@gmail.com",
-    "PASSWORD": "yntvrqxrcbfmkhho",
+    "EMAIL": "skillverify@gmail.com",
+    "PASSWORD": "aeznkvttkorwvtcs",
     "SMTP_SERVER": "smtp.gmail.com",
     "SMTP_PORT": 587
 }
